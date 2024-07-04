@@ -1,0 +1,7 @@
+streamlit 
+requests
+xml
+openai 
+langchain
+langchain_openai i
+langchain_core
