@@ -1,7 +1,6 @@
 streamlit 
 requests
 xml
-openai 
 langchain
 langchain_openai
 langchain_core
